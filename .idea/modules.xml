@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/realtimeinventorymanage.iml" filepath="$PROJECT_DIR$/realtimeinventorymanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandraupdatestream/cassandraupdatestream.iml" filepath="$PROJECT_DIR$/cassandraupdatestream/cassandraupdatestream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbasedinventorymanage.iml" filepath="$PROJECT_DIR$/eventbasedinventorymanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiveeventproducer/receiveeventproducer.iml" filepath="$PROJECT_DIR$/receiveeventproducer/receiveeventproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saleeventproducer/saleeventproducer.iml" filepath="$PROJECT_DIR$/saleeventproducer/saleeventproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storereceiving/storereceiving.iml" filepath="$PROJECT_DIR$/storereceiving/storereceiving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storesale/storesale.iml" filepath="$PROJECT_DIR$/storesale/storesale.iml" />
     </modules>
   </component>
 </project>

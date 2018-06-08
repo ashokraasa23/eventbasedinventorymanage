@@ -6,11 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="realtimeinventorymanage" />
+        <module name="cassandraupdatestream" />
+        <module name="core" />
+        <module name="receiveeventproducer" />
+        <module name="saleeventproducer" />
+        <module name="storereceiving" />
+        <module name="storesale" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cassandraupdatestream" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="eventbasedinventorymanage" target="1.8" />
+      <module name="FinalConsumerTopic" target="1.8" />
+      <module name="FinalOutputConsumer" target="1.8" />
       <module name="realtimeinventorymanage" target="1.8" />
+      <module name="receiveeventproducer" target="1.8" />
+      <module name="saleeventproducer" target="1.8" />
+      <module name="storereceiving" target="1.8" />
+      <module name="storesale" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
